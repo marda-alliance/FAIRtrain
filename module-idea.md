@@ -16,7 +16,7 @@ programming, version control, unix shell for automating tasks, database tools fo
 
 ### L1: data formats for machine-readable data (CSV, JSON, XML for materials data)
 
-####Motivating examples:
+#### Motivating examples:
 - https://www.youtube.com/watch?v=N2zK3sAtr-4
 - “The Semantic Web” from Scientific American 284(5): 28–37, 2001
 - http://tinyurl.com/vxk2s9kb
@@ -25,7 +25,7 @@ programming, version control, unix shell for automating tasks, database tools fo
 
 introducing structure and syntax into the data or how to make the data machine-actionable through self-describing key/value data structure (e.g., XML, JSON with semantically relevant key names)
 
-####Potential resources: 
+#### Potential resources: 
 
 - https://carpentries-incubator.github.io/scientific-metadata/index.html
 - https://github.com/marda-alliance/FAIR_2023_Workshop/ 
