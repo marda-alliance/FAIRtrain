@@ -1,4 +1,4 @@
-# FAIRtrain - Infusing FAIR Principles into Materials Science and Engineering Curriculum
+# FAIRtrain - Infusing FAIR Data Principles into Materials Science and Engineering Curriculum
 
 ## Participants
 
@@ -21,11 +21,19 @@ FAIR principles have been recognized as fundamental for exchanging scientific in
 
 ## Work Plan
 
+1. Organize core team and converge on [idea for initial set of modules and lessons](./module-idea.md).
 
+2. Launch formal working group, collect existing content, and author new content for modules and lessons.
+
+3. Test out content in academic and bootcamp setting
+
+4. Revise content based on trial run
 
 ## Goals and Expected Impact
 
-
+- Develop an open-source and uniform set of resources to expand awareness and expertise in the FAIR Data Principles.
 
 ## Deliverables
 
+- Online resources to teach and learn FAIR Data Principles
+ 
