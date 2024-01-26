@@ -93,3 +93,17 @@ data + metadata + rules - adding semantics to structure and syntax: Resource Des
 ### L3: Prepare FAIR publication 
 
 (publication space: zenodo, MDF), or plan for effortless and reproducible work: describe a computational/experimental environment, provide notebook as an essay/journal article, plan for incremental work.
+
+## Other resources
+
+- https://github.com/Materials-Data-Science-and-Informatics/awesome-fair
+- https://github.com/tilde-lab/awesome-materials-informatics (see standarization initiatives)
+- https://howtofair.dk/
+- https://codemeta.github.io/user-guide/
+- https://github.com/marda-alliance/FAIR_2023_Workshop/ 
+- https://open.hpi.de/courses/semanticweb2016/overview
+- https://librarycarpentry.org/Top-10-FAIR/
+- Shanahan, H., Hoebelheinrich, N. and Whyte, A., 2021. Progress toward a comprehensive teaching approach to the FAIR data principles. Patterns, 2(10).
+- https://openscience101.org/
+- https://nasa.github.io/Transform-to-Open-Science/
+
