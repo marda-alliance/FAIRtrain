@@ -21,7 +21,7 @@ FAIR principles have been recognized as fundamental for exchanging scientific in
 
 ## Work Plan
 
-1. Organize core team and converge on [idea for initial set of modules and lessons](./module-idea.md).
+1. Organize core team and converge on an [idea for initial set of modules and lessons](./module-idea.md).
 
 2. Launch formal working group, collect existing content, and author new content for modules and lessons.
 
