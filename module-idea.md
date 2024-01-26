@@ -38,3 +38,58 @@ introducing structure and syntax into the data or how to make the data machine-a
 ### L4: Verify if data is well structured for correctness - schema and schema validators
 
 
+## M1: Data reuse (use prior data from last year's course/literature/database) 
+
+### L1: Work with data from prior work or last year course (CSV, JSON, XML): load data, and visualize it using the script (python/matplotlib, gnuplot) – write notebook to capture the workflow 
+
+#### Potential resources:
+
+- https://swcarpentry.github.io/python-novice-gapminder/
+
+### L2: Use REST API (Materials Project, Citirination, AWFLOW)
+
+### L3: Learn data scraping and data restructuring (e.g., Beautiful Soup for XML and HTML documents in Python, rvest and xml2 in R) 
+
+## M2: Data integration (taking data from other groups/work, integrate experimental and computational work)
+
+### L1: Data cleaning
+
+#### Potential resources:
+
+- tool OpenRefine https://librarycarpentry.org/lc-open-refine/01-introduction.html
+
+### L2: Data integration: metadata standardization challenges (dealing with synonymous and homonymous terms, singular/plural word forms, lexical/dialectical variants...)
+
+#### Potential resources:
+
+- https://www.yamz.net/ 
+- YAMZ in materials science: https://doi.org/10.1162/dint_a_00211
+
+### L3: Knowledge representation
+
+data + metadata + rules - adding semantics to structure and syntax: Resource Description Framework (RDF) and schema (RDFS), database and ontology
+
+#### Potential resources:
+
+- https://github.com/marda-alliance/FAIR_2023_Workshop/ 
+- (tabular data, documents, knowledge graphs)
+
+#### Manufacturing ontologies:
+
+- https://matportal.org/, 
+- https://terminology.nfdi4ing.de/ts/
+
+#### Mechanical testing ontologies:
+
+- https://doi.org/10.1016/j.compind.2023.104016
+- https://github.com/emmo-repo/domain-mechanical-testing/blob/master/emmo-mechanical-testing.owl
+
+## M3: FAIR data generation 
+
+### L1: Generate data with metadata 
+
+### L2: Generate data with metadata and annotate with existing ontology/vocabulary
+
+### L3: Prepare FAIR publication 
+
+(publication space: zenodo, MDF), or plan for effortless and reproducible work: describe a computational/experimental environment, provide notebook as an essay/journal article, plan for incremental work.
