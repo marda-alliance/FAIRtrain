@@ -29,7 +29,7 @@ introducing structure and syntax into the data or how to make the data machine-a
 
 - https://carpentries-incubator.github.io/scientific-metadata/index.html
 - https://github.com/marda-alliance/FAIR_2023_Workshop/ 
-- (tabular data, data documents)
+  (tabular data, data documents)
 
 ### L3: Prepare your first dataset and code repository 
 
@@ -40,7 +40,9 @@ introducing structure and syntax into the data or how to make the data machine-a
 
 ## M1: Data reuse (use prior data from last year's course/literature/database) 
 
-### L1: Work with data from prior work or last year course (CSV, JSON, XML): load data, and visualize it using the script (python/matplotlib, gnuplot) – write notebook to capture the workflow 
+### L1: Work with data from prior work or last year course (CSV, JSON, XML)
+
+(load data, and visualize it using the script (python/matplotlib, gnuplot) – write notebook to capture the workflow) 
 
 #### Potential resources:
 
@@ -48,7 +50,9 @@ introducing structure and syntax into the data or how to make the data machine-a
 
 ### L2: Use REST API (Materials Project, Citirination, AWFLOW)
 
-### L3: Learn data scraping and data restructuring (e.g., Beautiful Soup for XML and HTML documents in Python, rvest and xml2 in R) 
+### L3: Data scraping and data restructuring 
+
+(e.g., Beautiful Soup for XML and HTML documents in Python, rvest and xml2 in R) 
 
 ## M2: Data integration (taking data from other groups/work, integrate experimental and computational work)
 
