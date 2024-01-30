@@ -54,7 +54,7 @@ introducing structure and syntax into the data or how to make the data machine-a
 
 (e.g., Beautiful Soup for XML and HTML documents in Python, rvest and xml2 in R) 
 
-## M2: Data integration (taking data from other groups/work, integrate experimental and computational work)
+## M2: Data integration (taking data from other groups/work, integrating experimental and computational work)
 
 ### L1: Data cleaning
 
@@ -62,7 +62,9 @@ introducing structure and syntax into the data or how to make the data machine-a
 
 - tool OpenRefine https://librarycarpentry.org/lc-open-refine/01-introduction.html
 
-### L2: Data integration: metadata standardization challenges (dealing with synonymous and homonymous terms, singular/plural word forms, lexical/dialectical variants...)
+### L2: Data integration: metadata standardization challenges 
+
+(dealing with synonymous and homonymous terms, singular/plural word forms, lexical/dialectical variants, etc.)
 
 #### Potential resources:
 
