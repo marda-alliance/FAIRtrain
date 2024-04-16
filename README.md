@@ -13,7 +13,7 @@
 
 ## Contributing
 
-If you would like to join this working group then please contact one of the group memebers. Please open a discussion if you have a general question.
+If you would like to join this working group then please contact one of the group members. Please open a discussion if you have a general question.
 
 ## Motivation
 
